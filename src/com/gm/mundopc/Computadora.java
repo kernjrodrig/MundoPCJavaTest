@@ -5,7 +5,7 @@ import java.util.StringJoiner;
 public class Computadora {
     private final int idComputadora;
     private String nombre;
-    private Monitor monitor;// relacio de agregacion
+    private Monitor monitor;
     private Teclado teclado;
     private Raton raton;
     private static int contadorComputadoras;

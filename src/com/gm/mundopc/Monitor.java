@@ -15,7 +15,6 @@ public class Monitor {
 
     public Monitor(String marca, double tamano) {
         this();
-        //this.idMonitor = idMonitor;
         this.marca = marca;
         this.tamano = tamano;
     }
