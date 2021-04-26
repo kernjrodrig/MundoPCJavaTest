@@ -72,4 +72,3 @@ public class Computadora {
                 .toString();
     }
 }
-//test comit
